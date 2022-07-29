@@ -1,0 +1,16 @@
+.btn{
+    width: 200px;
+    height: 50px;
+    border: none;
+    margin-bottom: 20px;
+}
+.btn:hover{
+    background-color: gold;
+}
+.btn:active{
+    background-color: crimson;
+}
+.wrapper{
+    width: 200px;
+    
+}
